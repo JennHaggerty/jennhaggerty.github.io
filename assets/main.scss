@@ -1,0 +1,46 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@import "minima";
+
+body {
+  font-family: 'Space Mono', monospace;
+  background: #222;
+}
+.site-title, 
+.site-title:visited,
+.page-content,
+a.page-link,
+a.page-link:visited {
+  color: #d3d3d3;
+}
+.site-title:hover,
+a.page-link:hover {
+  color: yellowgreen;
+  text-decoration: none;
+}
+.site-header,
+.site-footer {
+  background: #343a3f;
+  border: none;
+  color: #d3d3d3;
+}
+a,
+a:visited,
+a:hover {
+  color: yellowgreen;
+}
+pre, code {
+  border: 1px solid #333;
+  border-radius: 0;
+  background-color: black;
+}
+@media screen and (max-width: 600px) {
+  .site-title {
+    font-size: 16px;
+  }
+  .site-nav label[for="nav-trigger"] {
+    background: yellowgreen;
+  }
+}
