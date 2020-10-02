@@ -28,6 +28,7 @@
             {%- endif -%}
           {%- endfor -%}
           {%- if site.portfolioUrl -%}
+            <a class="page-link" href="{{ "/" | relative_url }}">Home</a>
             <a class="page-link" href="{{ site.portfolioUrl }}">Portfolio</a>
           {%- endif -%}
         </div>
