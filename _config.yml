@@ -28,6 +28,9 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 portfolioUrl: "https://jenniferhaggerty.com"
 github_username:  JennHaggerty
 
+disqus:
+  shortname: jennhaggerty
+
 # Build settings
 theme: minima
 plugins:
