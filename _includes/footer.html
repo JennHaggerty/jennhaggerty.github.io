@@ -16,10 +16,18 @@
       </div>
 
       <div class="footer-col footer-col-2">
-        {%- include social.html -%}
+        <ul class="contact-list">
+          <li class="p-name">
+            Portfolio
+            </li>
+            {%- if site.portfolioUrl -%}
+            <li><a class="u-email" href="{{ site.portfolioUrl }}">{{ site.portfolioUrl }}</a></li>
+            {%- endif -%}
+        </ul>
       </div>
 
       <div class="footer-col footer-col-3">
+        {%- include social.html -%}
       </div>
     </div>
 
