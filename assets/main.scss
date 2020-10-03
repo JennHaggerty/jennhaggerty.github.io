@@ -74,3 +74,21 @@ code,
 .hidden {
   display: none;
 }
+.btn, .btn:active, .btn:visited, .btn:hover {
+  background: yellowgreen;
+  color: #333;
+  padding: 10px;
+  border-radius: 3px;
+  float: right;
+}
+.page-navigation {
+  border-top: 1px solid;
+  padding-top: 1em;
+  width: 100%;
+}
+a.prev {
+  float: left;
+}
+a.next {
+  float: right;
+}

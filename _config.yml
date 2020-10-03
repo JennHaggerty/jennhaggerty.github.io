@@ -31,6 +31,8 @@ github_username:  JennHaggerty
 disqus:
   shortname: jennhaggerty
 
+show_excerpts: yes
+
 # Build settings
 theme: minima
 plugins:
