@@ -2,6 +2,7 @@
 layout: post
 title:  "Welcome to the blog. Here's how I did it, part 2."
 date:   2020-10-02
+tags: GitHub GitHubPages Jekyll Ruby HTML SCSS
 ---
 
 Yes, there is a part 2 to this because as I took a look at my <a href="https://github.com/JennHaggerty">GitHub profile</a> to see that pretty green-filled box I noticed it wasn't there. That's because when you fork a project it doesn't work to fill in the gaps on your repo but if you make a pull request that gets accepted on the source repo that profile will see a green box. Keep making those contributions, but if you're wanting the green box on your profile here's how to do it.
