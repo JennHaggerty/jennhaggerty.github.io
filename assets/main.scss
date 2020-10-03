@@ -82,9 +82,11 @@ code,
   float: right;
 }
 .page-navigation {
-  border-top: 1px solid;
-  padding-top: 1em;
-  width: 100%;
+  border-top: 2px solid #333;
+  border-bottom: 2px solid #333;
+  padding: 2em 0;
+  display: flex;
+  justify-content: space-between;
 }
 a.prev {
   float: left;
