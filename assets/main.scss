@@ -49,7 +49,9 @@ a:visited,
 a:hover {
   color: yellowgreen;
 }
-pre, code {
+pre, 
+code, 
+.highlighter-rouge .highlight {
   border: 1px solid #333;
   border-radius: 0;
   background-color: black;
