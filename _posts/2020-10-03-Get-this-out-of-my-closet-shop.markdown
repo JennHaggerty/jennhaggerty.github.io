@@ -17,27 +17,31 @@ Using a droplet I already own, to keep costs down, running <a href="https://http
 
 Next I added a file within the shop directory labeled `index.html` to show something that'll tell me the virtual hosts are working:
 
-    <html>
-      <head>
-        <title>Get This Out of My Closet Shop</title>
-      </head>
-      <body>
-        <h1>Success! The virtual host is working!</h1>
-      </body>
-    </html>
+```html
+<html>
+  <head>
+    <title>Get This Out of My Closet Shop</title>
+  </head>
+  <body>
+    <h1>Success! The virtual host is working!</h1>
+  </body>
+</html>
+```
 
 <h2>Create the virtual hosts</h2>
 
 Apache gives us a template that we can copy with `$ sudo cp /etc/apache2/sites-available/000-default.conf /etc/apache2/sites-available/getthisoutofmycloset.shop.conf` and edit to looks like this:
 
-    <VirtualHost *:80>
-      ServerAdmin thejenniferhaggerty@protonmail.com
-      ServerName getthisoutofmycloset.shop
-      ServerAlias www.getthisoutofmycloset.shop
-      DocumentRoot /var/www/getthisoutofmycloset.shop
-      ErrorLog ${APACHE_LOG_DIR}/error.log
-      CustomLog ${APACHE_LOG_DIR}/access.log combined
-    </VirtualHost>
+```conf
+<VirtualHost *:80>
+  ServerAdmin thejenniferhaggerty@protonmail.com
+  ServerName getthisoutofmycloset.shop
+  ServerAlias www.getthisoutofmycloset.shop
+  DocumentRoot /var/www/getthisoutofmycloset.shop
+  ErrorLog ${APACHE_LOG_DIR}/error.log
+  CustomLog ${APACHE_LOG_DIR}/access.log combined
+</VirtualHost>
+```
 
 Afterwards we enable the site with `$ sudo a2ensite getthisoutofmycloset.shop.conf`, restart Apache `$ sudo systemctl restart apache2`, and test the results by navigating to <a href="http://getthisoutofmycloset.shop">http://getthisoutofmycloset.shop</a>.
 
