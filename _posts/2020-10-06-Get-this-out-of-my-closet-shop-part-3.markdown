@@ -3,6 +3,7 @@ layout: post
 title:  "Get this out of my closet. Shop. Part 3"
 date:   2020-10-06
 tags:   WordPress WooCommerce LetsEncrypt
+description: Jennifer Haggerty secures a WordPress installation with SSL.
 ---
 
 At the time of this writing the url, getthisoutofmycloset.shop, displays "Success! The Get this out of my closet shop server block is working!" which is exactly what we want to see so we're moving onto WordPress, WooCommerce, and LetsEncrypt.

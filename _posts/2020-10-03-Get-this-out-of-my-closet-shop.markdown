@@ -3,6 +3,7 @@ layout: post
 title:  "Get this out of my closet. Shop."
 date:   2020-10-03
 tags: DigitalOcean Apache2 VirtualHosts
+description: Jennifer Haggerty works with virtual hosts on Apache2.
 ---
 
 Recall from the first <a href="{{ site.url }}/2020/10/01/welcome-to-jekyll.html">post</a> the reason I began this blog, my best friend needed an outlet for her collection of artworks and body care supplies. Let's take a look at how I setup her <a href="http://getthisoutofmycloset.shop">website</a>.

@@ -3,6 +3,7 @@ layout: post
 title:  "Get this out of my closet. Shop. Part 2"
 date:   2020-10-05
 tags: LAMP_Stack Linux Apache MySQL PHP WebDevelopment
+description: Jennifer Haggerty creates a LAMP stack on DigitalOcean for an upcoming WordPress website.
 ---
 
 I decided to move the website to its own droplet on DigitalOcean (DO) due to issues getting an SSL certificate on the shared droplet. After creating a new droplet I followed <a href="https://www.digitalocean.com/community/tutorials/initial-server-setup-with-ubuntu-18-04">DO's instructions for securing the droplet</a> and now we continue on with setting up the LAMP stack and getting WordPress. WooCommerce, and Let's Encrypt up and GetThisOutOfMyCloset.Shop running.

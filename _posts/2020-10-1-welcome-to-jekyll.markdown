@@ -3,6 +3,7 @@ layout: post
 title:  "Welcome to the blog. Here's how I did it."
 date:   2020-10-01
 tags: GitHub GitHubPages Jekyll Ruby HTML SCSS
+description: Jennifer Haggerty creates a blog using GitHub Pages and Jekyll and customized it with SCSS.
 ---
 As I was setting up my best friend's website <a href="http://getthisoutofmycloset.shop">GetThisOutOfMyCloset.shop</a>, she has amassed a large collection of art supplies, artworks, and skin care products that are taking over her closet space so we're making an online shop to clear it out, she mentioned me setting up a blog to detail the technical work I've been doing. For a long time I've been reluctant to begin a blog finding them to be time consuming, per my attempts to start a blog for my hobby with photography and painting, yet I now equate them to documenting client projects, which I'm a fan of doing so here it goes.
 
