@@ -6,6 +6,7 @@
 
 body {
   background: #222;
+  font-family: 'PT Sans', sans-serif;
 }
 .site-title, 
 .site-title:visited {
@@ -28,7 +29,7 @@ body {
 }
 .site-header,
 .site-footer {
-  font-family: 'Space Mono', monospace;
+  font-family: 'PT Mono', sans-serif;
   background: #343a3f;
   border: none;
   color: #d3d3d3;
