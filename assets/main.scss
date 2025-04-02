@@ -9,14 +9,14 @@ $white: white;
 //$lighter: ;
 $light: #d3d3d3;
 $medium: #828282;
-$dark: #343a3f;
+$dark: #0d0208;
 $darker: #333;
 $darkest: #222;
-$black: black;
-$accent: yellowgreen;
+$black: #0d0208;
+$accent: #008f11;
 
 body {
-  background: $darkest;
+  background: $black;
   font-family: 'PT Sans', sans-serif;
 }
 .site-header {
