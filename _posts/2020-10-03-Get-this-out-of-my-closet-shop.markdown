@@ -35,7 +35,7 @@ Apache gives us a template that we can copy with `$ sudo cp /etc/apache2/sites-a
 
 ```conf
 <VirtualHost *:80>
-  ServerAdmin thejenniferhaggerty@protonmail.com
+  ServerAdmin thejenniferhaggerty@gmail.com
   ServerName getthisoutofmycloset.shop
   ServerAlias www.getthisoutofmycloset.shop
   DocumentRoot /var/www/getthisoutofmycloset.shop
