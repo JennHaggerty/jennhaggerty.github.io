@@ -1,18 +1,18 @@
 ---
 layout: post
 title:  "The Making of Your Recruiter"
-date:   2025-04-03
+date:   2025-04-02
 tags:   Next.js, React, Typescript, TailwindCSS, HeroUI, MongoDB, Vercel, OpenAI
 description: Jennifer makes an AI supported job applications CMS.
 ---
 
-Today I:
+Today I added the table settings to `sessionStorage`, consolidated functions to update state and session data, and relocated the Legend.
 
 <h2>Added the table settings to `sessionStorage`!</h2>
 
 I found the need for this when I wanted to remove some older applications that were `closed` or `rejected` and after deleting one I had to reapply the table filters to get back where I was. With today's update when the user changes the page, the stages visible, and the columns visible, that data to saved to `sessionStorage` so when the user refreshes the page those settings are reapplied and the user won't lose their place. Some of the table functions must refresh the page and this will make it much easier to manage the applications and navigate the table. The `sessionStorage` is cleared when the user closes the tab, not when the user is logged out because I thought about accidental logouts that could lead to user frustration if they couldn't remember what settings they had before the accident.
 
-<h2>Consolidated functions to update state.</h2>
+<h2>Consolidated functions to update state and session data.</h2>
 
 Previously, functions would have to make two calls:
 ```sh
