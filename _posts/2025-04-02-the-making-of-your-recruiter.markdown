@@ -15,7 +15,7 @@ I found the need for this when I wanted to remove some older applications that w
 <h2>Consolidated functions to update state and session data.</h2>
 
 Previously, functions would have to make two calls:
-```sh
+```js
 setTableState((prevState) => ({
   ...prevState,
   key: value
@@ -25,7 +25,7 @@ setTableSession({key: value});
 ```
 Added `updateTableState()` to take any and all changes to the table settings and update the `tableState` and `sessionStorage`. 
 
-```sh
+```js
 const updateTableState = (args: { key: string; value: any }[]) => {
   const updates = args;
   updates.forEach((update: { key: string; value: any }) => {
