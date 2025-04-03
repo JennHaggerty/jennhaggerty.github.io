@@ -43,7 +43,6 @@ body {
         display: flex;
 
         .site-title {
-          font-size: 42px;
           width: 75%;
           text-transform: uppercase;
           color: $light;
@@ -123,6 +122,10 @@ body {
   .site-nav {
     background-color: $black;
     border: $black;
+  }
+  
+  .site-title {
+    font-size: 42px;
   }
 
   .site-avatar {
