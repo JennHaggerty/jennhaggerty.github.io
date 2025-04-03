@@ -69,3 +69,9 @@ updateTableState([
 <h2>Relocated the Legend</h2>
 
 The Legend was never meant to stay in the Nav, I wanted it there during the early days to check my own color rules and make sure I stuck to them or updated as needed. Now the Legend exists in the Footer. It's important to me to keep the Legend because I have a color code and use it as a style guide. I also want new and older users to have a reference to use the app more efficiently and confidently: purple buttons will always mean there's an AI action happening while red always represents a destructive action or error.
+
+<h2>Links</h2>
+
+<a href="https://your-recruiter.vercel.app/welcome">Your Recruiter website</a>
+
+<a href="https://github.com/JennHaggerty/your-recruiter">Github respository</a>
