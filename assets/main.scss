@@ -1,12 +1,6 @@
----
-# Only the main Sass file needs front matter (the dashes are enough)
----
-
 @import "minima";
 // variables
 $white: white;
-//$lightest: ;
-//$lighter: ;
 $light: #d3d3d3;
 $medium: #828282;
 $dark: #0d0208;
@@ -45,15 +39,13 @@ body {
         display: flex;
 
         .site-title {
+          font-size: 42px;
           width: 75%;
           text-transform: uppercase;
           color: $light;
         }
 
         .site-nav {
-          //width: 100%;
-          //text-align: center;
-      
           a.page-link {
             text-transform: uppercase;
             text-decoration: underline;
@@ -68,7 +60,7 @@ body {
       }
 
       .site-description {
-        color: #828282;
+        color: $medium;
       }
     }
   }
@@ -113,6 +105,10 @@ body {
     width: 100%;
     text-align: right;
   }
+  
+  .site-title {
+    font-size: 26px;
+  }
 }
 
 @media screen and (max-width: 600px) {
@@ -121,8 +117,8 @@ body {
   }
 
   .site-nav {
-    background-color: $dark;
-    border: $dark;
+    background-color: $black;
+    border: $black;
   }
 
   .site-avatar {
