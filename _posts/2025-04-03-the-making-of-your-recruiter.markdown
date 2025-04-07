@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Making of Your Recruiter"
+title:  "Your Recruiter"
 date:   2025-04-03
 tags:   Next.js, React, Typescript, TailwindCSS, HeroUI, MongoDB, Vercel, OpenAI
 description: Jennifer's progress on the app.
