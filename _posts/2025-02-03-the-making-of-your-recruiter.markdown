@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Your Recruiter"
-date:   2025-02-10
+date:   2025-02-03
 tags:   Next.js, React, Typescript, TailwindCSS, HeroUI, MongoDB, Vercel, OpenAI
 description: Jennifer's progress on the app.
 ---
