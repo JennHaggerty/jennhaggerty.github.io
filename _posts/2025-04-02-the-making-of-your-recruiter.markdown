@@ -3,7 +3,7 @@ layout: post
 title:  "Your Recruiter"
 date:   2025-04-02
 tags:   Next.js, React, Typescript, TailwindCSS, HeroUI, MongoDB, Vercel, OpenAI
-description: Jennifer's daily progress on the app.
+description: Jennifer's progress on the app.
 ---
 
 Today I added the table settings to `sessionStorage`, consolidated functions to update state and session data, and relocated the Legend.
@@ -72,6 +72,6 @@ The Legend was never meant to stay in the Nav, I wanted it there during the earl
 
 <h2>Links</h2>
 
-<a href="https://your-recruiter.vercel.app/welcome">Your Recruiter website</a>
+<a href="https://your-recruiter.vercel.app">Your Recruiter website</a>
 
 <a href="https://github.com/JennHaggerty/your-recruiter">Github respository</a>
