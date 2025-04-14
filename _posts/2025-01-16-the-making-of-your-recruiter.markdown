@@ -30,4 +30,4 @@ I started building the app on January 10th and as of today I completed setting u
 
 <a href="https://your-recruiter.vercel.app">Your Recruiter website</a>
 
-<a href="https://github.com/JennHaggerty/your-recruiter">Github respository</a>
+<a href="https://github.com/JennHaggerty/your-recruiter-reports">Github respository</a>

@@ -30,4 +30,4 @@ I still find it extremely helpful when add new features and content to keep myse
 
 <a href="https://your-recruiter.vercel.app">Your Recruiter website</a>
 
-<a href="https://github.com/JennHaggerty/your-recruiter">Github respository</a>
+<a href="https://github.com/JennHaggerty/your-recruiter-reports">Github respository</a>

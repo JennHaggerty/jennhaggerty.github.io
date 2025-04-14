@@ -16,4 +16,4 @@ At this point I'm switching repositories. When I began this project I hardcoded 
 
 <a href="https://your-recruiter.vercel.app">Your Recruiter website</a>
 
-<a href="https://github.com/JennHaggerty/your-recruiter">Github respository</a>
+<a href="https://github.com/JennHaggerty/your-recruiter-reports">Github respository</a>

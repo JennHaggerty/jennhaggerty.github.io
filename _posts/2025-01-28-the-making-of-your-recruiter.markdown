@@ -18,4 +18,4 @@ Future Jennifer coming in to note: Initially I planned to leave the cover letter
 
 <a href="https://your-recruiter.vercel.app">Your Recruiter website</a>
 
-<a href="https://github.com/JennHaggerty/your-recruiter">Github respository</a>
+<a href="https://github.com/JennHaggerty/your-recruiter-reports">Github respository</a>

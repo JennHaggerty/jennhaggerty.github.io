@@ -24,4 +24,4 @@ The table view and modals were updated with the appropriate buttons for the cove
 
 <a href="https://your-recruiter.vercel.app">Your Recruiter website</a>
 
-<a href="https://github.com/JennHaggerty/your-recruiter">Github respository</a>
+<a href="https://github.com/JennHaggerty/your-recruiter-reports">Github respository</a>
