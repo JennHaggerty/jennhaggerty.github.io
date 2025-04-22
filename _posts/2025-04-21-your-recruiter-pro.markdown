@@ -3,7 +3,7 @@ layout: post
 title:  "Your Recruiter Pro Version is in the works"
 date:   2025-04-21
 tags:   Next.js, React, Typescript, TailwindCSS, HeroUI, MongoDB, Vercel, OpenAI
-description: "Jennifer did get enough from the original app and begins a pro version."
+description: "Jennifer didn't get enough from the original app and begins a pro version."
 ---
 
 Today I began the pro version of Your Recruiter
