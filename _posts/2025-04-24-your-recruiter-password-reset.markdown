@@ -12,11 +12,11 @@ description: "Did you forget your password? I did too, let's reset it."
 
 <div>Today I brought in Nodemailer and added a reset password function to Your Recruiter. Now if you forget your password you can click the link on the Login form and request a reset password link. </div>
 
-<div><img src="assets/image.png" alt="forgot password link"></div>
+<div><img src="/assets/image.png" alt="forgot password link"></div>
 
-<div><img src="assets/image-1.png" alt="forgot password form"></div>
+<div><img src="/assets/image-1.png" alt="forgot password form"></div>
 
-<div><img src="assets/image-2.png" alt="reset password form"></div>
+<div><img src="/assets/image-2.png" alt="reset password form"></div>
 
 <h2>Links</h2>
 
