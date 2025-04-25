@@ -16,7 +16,9 @@ This still doesn't *feel* fool-proof, I think I should create a random url next 
 
 <iframe src="https://giphy.com/embed/xUPJPhanYiB7z9xlCg" width="480" height="360" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/spongebob-spongebob-squarepants-season-8-xUPJPhanYiB7z9xlCg">via GIPHY</a></p>
 
-Ok, so instead of using the user's id we're not using the *request id*! Much more difficult to get a hold of and no user information is provided at any point! Yeah, that feels much better.
+Ok, so instead of using the user's id we're now using the *request id*! Much more difficult to get a hold of and no user information is provided at any point! 
+
+Yeah, that feels much better.
 
 <h3>Questions, comments, concerns?</h3>
 
