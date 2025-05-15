@@ -6,7 +6,7 @@ tags:   React, HeroUI
 description: "'Your Recruiter' is now 'MyJobQuest.io' with UI feedback for the user."
 ---
 
-MyJobQuest.io, formerly Your Recruiter, has a name and UI update.
+MyJobQuest.io, formerly Your Recruiter, has a new name and UI update.
 
 <h2>What's Happening Now</h2>
 
@@ -15,7 +15,7 @@ will have text underneath the conveys a quick update about what's happpening beh
 
 ![The loading message displays a text message keeping the user in the know.](/assets/loading-notifications.png)
 
-This feedback is my new favorite thing! It relieves subtle stress caused by a lone spinneer; is it still working? Did it freeze? What is it doing now?
+This feedback is my new favorite thing! It relieves subtle stress caused by a lone spinneer; is it still working? Did it get stuck? What is it doing now?
 Some of the text changes too quickly for me to fully read but I'd rather have this then allow time for the reader -- the point is to show that something *is* 
 and it's going *so fast*!
 
