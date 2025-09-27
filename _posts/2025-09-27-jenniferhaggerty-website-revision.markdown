@@ -13,7 +13,7 @@ I share this memory because the t-shirt I got to commemorate our trip inspired t
 <h2>The Reference</h2>
 
 
-![This is the flannel variation of the HHN'24 t-shirt.](/assets/loading-notifications.png)
+![This is the flannel variation of the HHN'24 t-shirt.](/assets/hhn_ref.jpg)
 
 You can see where I used Coolors.co to generate a color palette and using the hierarchy of the text within the design to define my header and paragraph fonts and elements. 
 
